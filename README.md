@@ -13,7 +13,7 @@ There is an [ongoing issue](https://github.com/SpEcHiDe/NoPMsBot/issues/4) which
 ## Credits, and Thanks to
 
 * [ThankTelegram](https://telegram.dog/ThankTelegram)
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [ജിന്ന്💞](https://telegram.dog/THEREALMR_JINN_OFTG) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 
 
 
