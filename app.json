@@ -12,8 +12,8 @@
     "channel",
     "administrators"
   ],
-  "repository": "https://github.com/SpEcHIDe/NoPMsBot",
-  "website": "https://telegram.dog/SpEcHlDe",
+  "repository": "https://github.com/SMILE-KILLER10/SM-PM-BOT",
+  "website": "https://github.com/SMILE-KILLER10",
   "success_url": "https://t.me/SpEcHlDe/571",
   "env": {
     "APP_ID": {
